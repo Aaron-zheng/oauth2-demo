@@ -1,0 +1,5 @@
+server:
+  port: 8080
+  context-path: /oauth2-demo
+  session:
+    timeout: 3600
